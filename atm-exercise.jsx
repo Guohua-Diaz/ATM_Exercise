@@ -64,7 +64,7 @@
         isValid={validTransaction}
         ></ATMDeposit>
         )}
-        </>
+       </>
       </form>
     );
   };
